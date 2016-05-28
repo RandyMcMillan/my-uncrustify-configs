@@ -6,4 +6,9 @@ Check out:
 to generate your own uncrustify.cfg file
 
 
-<code>ln -s uncrustify.cfg ~/.uncrustify/uncrustify.cfg</code>
+<code>
+mkdir ~/.uncrustify
+</code>
+<code>
+ln -s uncrustify.cfg ~/.uncrustify/uncrustify.cfg
+</code>

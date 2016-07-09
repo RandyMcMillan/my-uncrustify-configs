@@ -9,3 +9,8 @@
  * COP 3514
  *
  */
+
+#ifndef FILENAME_H
+#define FILENAME_H
+
+#endif

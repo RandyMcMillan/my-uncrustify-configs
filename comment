@@ -1,14 +1,5 @@
-/*
- *
- * Randy McMillan
- *
- * U8173-5382
- *
- * Homework
- *
- * COP 3514
- *
- */
+//  Created by randymcmillan on __DATE__.
+//  Copyright © 2016 RandyMcMillan.net. All rights reserved.
 
 #ifndef FILENAME_H
 #define FILENAME_H
